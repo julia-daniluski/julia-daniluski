@@ -17,6 +17,7 @@
 ⇨ SPFC ♡
 
 
+⟹ Como contatar: julia.o.daniluski@gmail.com
 
 ⟹ Instagram: @ju_daniluski
 
