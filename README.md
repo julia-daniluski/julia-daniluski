@@ -6,7 +6,7 @@
 
 ⇨ Estou usando o github atualmente para os estudos ⛤
 
-⇨ Estou fazendo o curso Técnico em Desenvolvimento de Sistemas no SENAI ♡
+⇨ Fazendo o curso Técnico em Desenvolvimento de Sistemas no SENAI ♡
 
 ⇨ Sou Brasileira e tenho 16 anos ⛤
 
