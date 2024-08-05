@@ -13,7 +13,7 @@
 
 ⇨ 📖: Hobbies - ler, escrever e assistir séries, filmes, novelas, etc 
 
-⇨ 📜: Certificado em Excel básico, lógica de programação, por dentro da segurança cibernética e LGPD 
+⇨ 📜: Certificado em Excel básico, lógica de programação, economia circcular, por dentro da segurança cibernética e LGPD 
 
 ⇨ ⚽: SPFC
 
