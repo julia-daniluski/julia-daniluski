@@ -11,7 +11,7 @@
 
 ⇨ 🇧🇷: Sou Brasileira e tenho 16 anos 
 
-⇨ 📖: Amo ler, escrever e assistir séries, filmes, novelas, etc 
+⇨ 📖: Hobbies - ler, escrever e assistir séries, filmes, novelas, etc 
 
 ⇨ 📜: Certificado em Excel básico, lógica de programação, por dentro da segurança cibernética e LGPD 
 
