@@ -1,26 +1,24 @@
-## BEM VINDOS! 🌞
+# ✨ Olá, mundo! Seja bem-vindo(a)! 🌍  
 
+🚀 **Quem sou eu?**  
+Olá! Me chamo **Julia**, tenho **17 anos** e sou **brasileira**. Atualmente, estou estudando **Desenvolvimento de Sistemas** no **SENAI**, cursando o último ano do ensino médio no **SESI** e uso o **GitHub** para compartilhar meus aprendizados e projetos.  
 
-⇨ 🚶🏻‍♀️‍➡️ **Meus pronomes são ELA/DELA** ♡
+## 🔹 Sobre mim  
+🔹 **Pronomes**: ELA/DELA  
+🔹 **Hobbies**: Amo ler, escrever e maratonar séries, filmes e novelas! 🎬📖  
+🔹 **Time do coração**: 💖⚽ **SPFC**  
 
-⇨ 🖋️ **Atualmente utilizando o GitHub para estudos**
+## 📜 Certificações  
+✅ **Excel Básico**  
+✅ **Lógica de Programação**  
+✅ **Economia Circular**  
+✅ **Por dentro da Segurança Cibernética**  
+✅ **LGPD**  
 
-⇨ 💻 **Fazendo o curso Técnico em Desenvolvimento de Sistemas no SENAI**
+## 📬 Entre em contato comigo!  
+📧 **E-mail**: [julia.o.daniluski@gmail.com](mailto:julia.o.daniluski@gmail.com)  
+📸 **Instagram**: [@ju_daniluski](https://www.instagram.com/ju_daniluski)  
 
-⇨ 🇧🇷 **Sou Brasileira e tenho 17 anos**
+---
 
-⇨ 📖 **Hobbies**: Ler, escrever e assistir séries, filmes, novelas, etc.
-
-⇨ 📜 **Certificados**:
-  - Excel Básico
-  - Lógica de Programação
-  - Economia Circular
-  - Por dentro da Segurança Cibernética
-  - LGPD
-
-⇨ ⚽ **SPFC**
-
-⟹ **Como contatar**: [julia.o.daniluski@gmail.com](mailto:julia.o.daniluski@gmail.com)
-
-⟹ **Instagram**: [@ju_daniluski](https://www.instagram.com/ju_daniluski)
-
+〽️ *"Nothing matters but knowing nothing matters it's just life so keep dancing through life!"* 🎵  
