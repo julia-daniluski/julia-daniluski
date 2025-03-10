@@ -18,6 +18,8 @@ Olá! Me chamo **Julia**, tenho **17 anos** e sou **brasileira**. Atualmente, es
 ## 📬 Entre em contato comigo!  
 📧 **E-mail**: [julia.o.daniluski@gmail.com](mailto:julia.o.daniluski@gmail.com)  
 📸 **Instagram**: [@ju_daniluski](https://www.instagram.com/ju_daniluski)  
+👩‍🏭 **LinkedIn**: [Julia Daniluski](https://www.linkedin.com/in/julia-daniluski-082b78352/)
+
 
 ---
 
