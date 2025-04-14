@@ -14,7 +14,7 @@ Olá! Me chamo **Julia**, tenho **17 anos** e sou **brasileira**. Atualmente, es
 ✅ **Economia Circular**  
 ✅ **Por dentro da Segurança Cibernética**  
 ✅ **LGPD**  
-✅ **Desvendando o 5G**
+✅ **Desvendando o 5G**  
 ✅ **Introdução à programação orientada a objetos (POO)**
 
 
