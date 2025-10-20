@@ -1,7 +1,7 @@
 # ✨ Olá, mundo! Seja bem-vindo(a)! 🌍  
 
 🚀 **Quem sou eu?**  
-Olá! Me chamo **Julia**, tenho **17 anos** e sou **brasileira**. Atualmente, estou estudando **Desenvolvimento de Sistemas** no **SENAI**, cursando o último ano do ensino médio no **SESI** e uso o **GitHub** para compartilhar meus aprendizados e projetos.  
+Olá! Me chamo **Julia**, tenho **18 anos** e sou **brasileira**. Atualmente, estou estudando **Desenvolvimento de Sistemas** no **SENAI**, cursando o último ano do ensino médio no **SESI** e uso o **GitHub** para compartilhar meus aprendizados e projetos.  
 
 ## 🔹 Sobre mim  
 🔹 **Pronomes**: ELA/DELA  
