@@ -1,11 +1,12 @@
 # ✨ Olá, mundo! Seja bem-vindo(a)! 🌍  
 
 🚀 **Quem sou eu?**  
-Olá! Me chamo **Julia**, tenho **18 anos** e sou **brasileira**. Atualmente, estou estudando **Desenvolvimento de Sistemas** no **SENAI**, cursando o último ano do ensino médio no **SESI** e uso o **GitHub** para compartilhar meus aprendizados e projetos.  
+Olá! Me chamo **Julia**, tenho **18 anos** e sou **brasileira**. Atualmente, sou formada no técnico de **Desenvolvimento de Sistemas** no **SENAI** e uso o **GitHub** para compartilhar meus aprendizados e projetos, como portifólio oara vagas futuras.
+
 
 ## 🔹 Sobre mim  
-🔹 **Pronomes**: ELA/DELA  
-🔹 **Hobbies**: Amo ler, escrever e maratonar séries, filmes e novelas! 🎬📖  
+🔹 **Pronomes**: Ela/Dela  
+🔹 **Hobbies**: Sou leitora e escritora! Sou fã de séries, filmes, novelas e de RPG! Gosto de apoiar projetos nacionais. 🎬📖  
 🔹 **Time do coração**: 💖⚽ **SPFC**  
 
 ## 📜 Certificações  
